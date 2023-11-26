@@ -12,7 +12,6 @@ those responses into the read me. A video will be included below on instructions
 
 Here, a video is included to show how it works.
 
-![README](./assets/index.js%20-%20ReadMeApparatus%20-%20Visual%20Studio%20Code%202023-11-26%2015-02-19.mp4) 
 
 ## Credits
 
