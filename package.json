@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    // Below is the version that we just downloaded!
     "inquirer": "^8.2.4"
   }  
 }
