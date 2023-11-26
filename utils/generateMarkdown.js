@@ -3,6 +3,8 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
 // if There is no license
+// WE DO NOT KNOW WHAT LICENSE YOU WILL SELECT SO THIS IS A PLACEHOLDER.
+// WHATEVER YOU SELECT WILL SHOW UP IN BLUE AND REPLACE THE PLACEHOLDER.
 return `![License](https://img.shields.io/badge/License-${license}-blue.svg)`;
 }
 
@@ -37,14 +39,31 @@ ${renderLicenseBadge(data.license)}
 ${data.description}
 
 ## Table of Contents
-
 * [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Github](#github)
+* [Email](#email)
 
 ## Installation
 
 To install necessary packages please run following command:
-
 ${data.installation}
+
+// NOTE TO SELF: I STRUGGLED TO GET THIS TO WORK BECAUSE I DIDN'T ADD A SPACE
+// IN BETWEEN '## AND usage'. IT WASN'T WORKING BECAUSE I HAD IT AS '##USAGE'.
+
+## usage
+${data.usage}
+## contributing
+${data.contributing}
+## tests
+${data.test}
+## github
+${data.github}
+## email
+${data.email}
 
 `;
 }

@@ -62,13 +62,13 @@ const questions = [
     // asking for github
     type:"input",
     name:"github",
-    message:"Please enter your girhub username",
+    message:"Please enter your github username.",
 },
 {
     // asking for email
     type:"input",
     name:"email",
-    message:"Please enter email address.",
+    message:"Please enter your email address.",
 },
 ];
 
