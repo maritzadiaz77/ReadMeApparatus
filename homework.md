@@ -1,9 +1,9 @@
-# gjd
-![License](https://img.shields.io/badge/License-Apache 2.0-blue.svg)
+# ReadMeApparatus
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-dghjdg
+I want a readme generator so that I can quickly create a professsional readme for a new project.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,19 +16,16 @@ dghjdg
 ## Installation
 
 To install necessary packages please run following command:
-dghjdg
-
-// NOTE TO SELF: I STRUGGLED TO GET THIS TO WORK BECAUSE I DIDN'T ADD A SPACE
-// IN BETWEEN '## AND usage'. IT WASN'T WORKING BECAUSE I HAD IT AS '##USAGE'.
+N/A
 
 ## usage
-dghjdgj
+Answer all required prompts.
 ## contributing
-dhgjdgh
+Head over to my github repo and you will have access to it so that you may contribute to it.
 ## tests
-ghjdg
+Open integrated terminal, type in node index.js, then you will be asked questions,answer them, and then it will generate a read me under homework.md.
 ## github
-ghjdg
+maritzadiaz77
 ## email
-dghjd
+maritzadiaz77@gmail.com
 
