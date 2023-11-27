@@ -1,9 +1,9 @@
-# gjhdyj
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# gjd
+![License](https://img.shields.io/badge/License-Apache 2.0-blue.svg)
 
 ## Description
 
-gjfhk
+dghjdg
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,15 +16,19 @@ gjfhk
 ## Installation
 
 To install necessary packages please run following command:
-hgkfhj
+dghjdg
+
+// NOTE TO SELF: I STRUGGLED TO GET THIS TO WORK BECAUSE I DIDN'T ADD A SPACE
+// IN BETWEEN '## AND usage'. IT WASN'T WORKING BECAUSE I HAD IT AS '##USAGE'.
+
 ## usage
-hfjfhj
+dghjdgj
 ## contributing
-ghjfgh
+dhgjdgh
 ## tests
-hgjfg
+ghjdg
 ## github
-ghjfgjh
+ghjdg
 ## email
-ghjfgh
+dghjd
 

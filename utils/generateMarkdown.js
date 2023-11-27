@@ -51,9 +51,6 @@ ${data.description}
 To install necessary packages please run following command:
 ${data.installation}
 
-// NOTE TO SELF: I STRUGGLED TO GET THIS TO WORK BECAUSE I DIDN'T ADD A SPACE
-// IN BETWEEN '## AND usage'. IT WASN'T WORKING BECAUSE I HAD IT AS '##USAGE'.
-
 ## usage
 ${data.usage}
 ## contributing
