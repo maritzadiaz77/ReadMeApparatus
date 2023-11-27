@@ -11,7 +11,7 @@ those responses into the read me. A video will be included below on instructions
 ## Usage
 
 Here, a video is included to show how it works.
-
+https://www.youtube.com/watch?v=27itXPpOdjM 
 
 ## Credits
 
